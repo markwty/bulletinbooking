@@ -1,2 +1,0 @@
-bulletin.png
-form.png
